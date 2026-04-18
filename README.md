@@ -17,17 +17,6 @@ Playground lets you experiment with any measure's DAX expression — see the imp
 
 All "what-if" evaluations use `fabric.evaluate_dax()` with `DEFINE MEASURE` overrides — your modified DAX is injected into the query text, not written to the model. The live model definition is untouched throughout.
 
-## Screenshots
-
-### What-If: Original vs Modified
-![What-If Demo](screenshots/whatif_demo.png)
-
-### Scenario Comparison
-![Scenario Comparison](screenshots/scenario_comparison.png)
-
-### Dimensional Breakdown
-![Dimensional Breakdown](screenshots/dimensional_breakdown.png)
-
 ## Quick start
 
 1. Import the notebook into any Fabric workspace.

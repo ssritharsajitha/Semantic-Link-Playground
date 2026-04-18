@@ -1,12 +1,11 @@
 # Submission Abstract — Semantic Link: Playground
 
-## Short version (for the Notebook Gallery "short abstract" field)
-
+## Short version 
 Semantic Link – Playground is a safe what-if sandbox for Power BI semantic model measures. Modify any measure's DAX in a notebook cell and instantly see the original vs. modified values side-by-side — without touching the live model. Run downstream impact analysis to discover which other measures would shift, compare multiple formula alternatives in a single chart, and break down experiments by dimension. Built on `semantic-link` + `semantic-link-labs`, using `evaluate_dax()` with `DEFINE MEASURE` overrides for zero-write sandboxing. Adopt in any workspace by editing two config variables.
 
 ---
 
-## Long version (for the notebook header and challenge thread)
+## Long version 
 
 ### The problem
 
